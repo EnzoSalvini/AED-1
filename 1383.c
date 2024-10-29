@@ -1,5 +1,5 @@
 /*tentativa não funcional, as funções repetelinha e repetecoluna em algum momento comparam o valor de uma casa com ela mesma 
-retornando 1, indicando um problema na logica principal do meu programa*/
+retornando 1, indicando um problema na logica principal do meu programa, alem dele nao estar completamente adaptado para "k" instancias*/
 //não sei se é possível resolver utilizando somente conhecimentos de L.P
 #include <stdio.h>
 
