@@ -21,6 +21,10 @@ int main(){
         x++;
     }
     printf("%s\n",lista[x-1]);
+    for (int i=0;i<n;i++){
+        free(lista[i]);
+    }
+    return 0;
 }
 
 void ordemalfabetica(char *str[50], int n) { //bubblesort
